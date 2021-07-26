@@ -14,8 +14,8 @@ public class DemoApplication {
 
 
 
-		String str = "test";
-		System.out.println("ahead native");
+
+		
 
 	}
 
