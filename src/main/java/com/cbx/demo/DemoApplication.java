@@ -14,9 +14,9 @@ public class DemoApplication {
 
                 String remote = "remote str";
 		  String remotedsda = "remote str dasda";
-                    
+
 	}
 
 
-	}
+
 }
