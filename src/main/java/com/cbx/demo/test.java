@@ -9,5 +9,6 @@ public class test {
         System.out.println("测试一下");
         System.out.println("本地修改");
         int b = 3;
+        int a = 2;
     }
 }
