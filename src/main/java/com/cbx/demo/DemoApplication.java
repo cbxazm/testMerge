@@ -9,7 +9,14 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		String str = "test";
+
 		String test = "zbrndi";
+
+                String remote = "remote str";
+		  String remotedsda = "remote str dasda";
+                    
+	}
+
 
 	}
 }
